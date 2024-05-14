@@ -13,6 +13,7 @@ A simple user login/register system with the abilities to:
 
 ### Home Page / Upload screen
 (Note: I've created a username called usertwo which is displayed)
+
 ![image](https://github.com/SydneyJupiters/user-login-register-system/assets/77537725/a5cdcb18-2c87-4658-93b6-be2c0a52e93e)
 
 ### How to run
