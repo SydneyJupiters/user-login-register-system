@@ -8,7 +8,8 @@ A simple user login/register system with the abilities to:
 
 ### Login/Regsiter Screen
 
-![image](https://github.com/SydneyJupiters/user-login-register-system/assets/77537725/8a587206-f781-40bd-b98f-74cbf981ff03)
+![image](https://github.com/SydneyJupiters/user-login-register-system/assets/77537725/d0b3d9f5-a80b-46e0-8782-56e809c6aec2)
+
 
 ### Home Page / Upload screen
 (Note: I've created a username called usertwo which is displayed)
